@@ -33,7 +33,9 @@ This app was written under the MIT license.
 ## Questions?
 Reach out by email: boldsja@gmail.com
 
-[Heroku Link](https://git.heroku.com/jab-note-taker.git)
+[Heroku Link](https://jab-note-taker.herokuapp.com/)
+
 [Github Repo](https://github.com/boldsja/notes)
+
 [Github](https://github.com/boldsja/) 
 
