@@ -27,8 +27,12 @@ Contributors include: Brian Gearty (tutor), and myself.
 
 This app was written under the MIT license.
 
+## Screenshot
+![Final page screenshot](./assets/localhost_3001_.png) 
+
 ## Questions?
 Reach out by email: boldsja@gmail.com
 
+[Github Repo](https://github.com/boldsja/notes)
 [Github](https://github.com/boldsja/) 
 
